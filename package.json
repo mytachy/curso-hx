@@ -1,0 +1,25 @@
+{
+  "name": "curso-hx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mytachy/curso-hx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mytachy/curso-hx/issues"
+  },
+  "homepage": "https://github.com/mytachy/curso-hx#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-ruby-sass": "^2.1.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-watch": "^4.3.10"
+  }
+}
