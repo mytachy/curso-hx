@@ -1,3 +1,5 @@
+@import "../molecules/textos"
+
 section.sobre
   .itens
     +flexbox
@@ -43,14 +45,3 @@ section.sobre
         +font-size(45px)
         margin: 0 1px
 
-  .textos
-    +make-sm-column(8)
-    +make-sm-column-offset(2)
-    text-align: center
-
-    p
-      +font-size(25px)
-
-    .botao
-      display: table
-      margin: 30px auto
